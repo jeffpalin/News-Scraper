@@ -10,7 +10,7 @@ var CommentSchema = new Schema({
         type: String
     },
     // Just a string
-    summary: {
+    body: {
         type: String
     }
 });
